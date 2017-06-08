@@ -1,6 +1,6 @@
 {
 	"room": "Hits Jukebox",
-	"css": "https://rawgit.com/NichSommer/jukebox/master/json",
+	"css": "https://rawgit.com/NichSommer/jukebox/master/jk.json",
 	"rules": {
             "allowAutorespond": true,
             "allowAutowoot": true,
